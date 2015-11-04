@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Page Flip Animation</string>
+    <string name="horizontal">Horizontal Flip</string>
+    <string name="vertical">Vertical Flip</string>
+    <string name="type">Flip type</string>
+    <string name="header">Flipper Header</string>
+    <string name="footer">Flipper Footer</string>
+</resources>
